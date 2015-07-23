@@ -117,7 +117,7 @@ Vagrant before continuing with the installation process.
 
    .. code-block:: bash
 
-     $ vagrant box add /path-to-downloaded-box/vagrant-images-20150224-birch-
+     $ vagrant box add /path-to-downloaded-box/vagrant-images_20150224-birch-
      fullstack.box --name birch-fullstack
 
 .. confirm names
